@@ -34,8 +34,8 @@ This project combines a honeypot and a keylogger into a single tool to capture l
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/combined-honeypot-keylogger.git
-   cd combined-honeypot-keylogger
+   git clone https://github.com/luckysitara/Pax-ssh_honeypot_with_keylogger.git
+   cd Pax-ssh_honeypot_with_keylogger
    ```
 
 2. **Install Dependencies**:
