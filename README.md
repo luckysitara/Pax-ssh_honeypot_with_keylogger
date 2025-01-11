@@ -54,7 +54,7 @@ This project combines a honeypot and a keylogger into a single tool to capture l
 
 1. **Start the Combined Tool**:
    ```sh
-   python combined_tool.py
+   python honey.py
    ```
 
    This script starts the SSH honeypot server and the keylogger. The honeypot listens on port 2222 for incoming SSH connections, while the keylogger captures keystrokes.
